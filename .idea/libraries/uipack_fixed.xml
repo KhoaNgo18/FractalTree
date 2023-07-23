@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="uipack_fixed">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/UI/bin/SpaceRunner/ExtractedFiles/UI/uipack_fixed.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

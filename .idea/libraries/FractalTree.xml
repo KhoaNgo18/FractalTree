@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FractalTree">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/FractalTree.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
